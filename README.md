@@ -51,5 +51,5 @@ The results obtained for my test data is as shown below, with an **accuracy of 8
 
 ![image](https://github.com/ASHIPAUL27/Resume_classifier/assets/152466355/9a90b9b3-0121-4ba1-88cf-1d0067c44ac0)
 
-
+The link to the google drive folder containing the data and the model file is [Data and Model](https://drive.google.com/drive/folders/1dONz34PdFdccNoyPMWIAG3IivpAoPW5N?usp=sharing).
 
