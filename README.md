@@ -3,7 +3,8 @@
 
 I have built a model that classifies resume images from non-resume documents efficiently by only taking into consideration the visual features of the documents. We can observe that a resume stands out from other documents in the way that it has a more section-wise structure, where it follows a particular font throughout, has a constant color theme and will contain just one image of the candidate only, compared to other documents with multiple fonts or colors, logos, images and other features. This model has learnt these features effectively and will be able to classify resumes from a bunch of other document images.
 
-The model used here is the **Inceptionv3** model from the keras library, optimizer Adam with leraning rate 0.001 and 100 epochs are completed with the binary crossentropy loss.
+The model used here is the **Inceptionv3** model from the keras library, optimizer Adam with learning rate 0.001 and 100 epochs are completed with the binary crossentropy loss.
+
 The trained model is saved as 'model_checkpoint.h5' and can be used to do evaluations on any document images.
 
 # Data Set:
