@@ -10,6 +10,12 @@ The trained model is saved as 'model_checkpoint.h5' and can be used to do evalua
 # Data Set:
 The Data set is collected by scraping images from google using the python library ‘pygoogle_image’. We collected 579 resume images with varying characteristics and 611 non-resume images which include the following categories : articles, aadhar cards, certificates, emails, handwritten notes, memos, news articles, posters, registration forms and scientific reports. The dataset was split as 80% train, 10% validation and 10% test.
 
+![image](https://github.com/ASHIPAUL27/Resume_classifier/assets/152466355/26c9a1fe-595d-4f21-b0ed-a86c67d89fff)
+
+![image](https://github.com/ASHIPAUL27/Resume_classifier/assets/152466355/511ab9db-a038-463f-84e5-ae1874e617db)
+
+
+
 # Testing images
 
 I have provided a python script that has a class capable of creating a object that makes evaluations on any dataset with the trained model. It can provide us with predictions for the data, give us the classification report, confusion matrix and tp, fp, tn, fn values.
